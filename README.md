@@ -1,4 +1,4 @@
-# input-text-box-effects-in-css
+# Textbox/Input text Effects in CSS
 Various textbox/input designs using CSS
 
 <a href="https://designdrastic.com/snippet/input-text-box-effects-in-css"><strong>View Post</strong></a>
