@@ -1,6 +1,8 @@
-# Textbox/Input text Effects in CSS
-Various textbox/input designs using CSS
+# Creative Input Text Box Effects with CSS
+Creative input text box element styles, animation & hover effects. Ex: shutter effects, glow effects, border animation, etc...
 
-<a href="https://designdrastic.com/snippet/input-text-box-effects-in-css"><strong>View Post</strong></a>
+![Cover Image](https://designdrastic.com/uploads/creative-input-text-box-effects-with-css-hero.png)
+
+<a href="https://designdrastic.com/snippet/creative-input-text-box-effects-with-css"><strong>View Post</strong></a>
 <br />
-<a href="https://designdrastic.com/post/demo/input-text-box-effects-in-css"><strong>View Demo</strong></a>
+<a href="https://designdrastic.com/post/snippet/creative-input-text-box-effects-with-css/preview"><strong>View Demo</strong></a>
